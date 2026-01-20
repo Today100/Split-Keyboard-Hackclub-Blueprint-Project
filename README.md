@@ -14,13 +14,12 @@ A split keyboard using the Seeed Studio XIAO nRF52840
 | **Li-Po Battery** (3.7V, e.g. 301230 size) | 2 | Typeractive | $5.00 CAD| [link](https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731632871)|
 |**Power Switch**| 1 (packs of 2) | Typeractive | $3.00 CAD| [link](https://typeractive.xyz/products/power-switch?pr_prod_strat=jac&pr_rec_id=fd8cabb50&pr_rec_pid=8263543062759&pr_ref_pid=8263540343015&pr_seq=uniform)
 | **Female Pin Headers** (1x7, 2.54mm pitch) | 4 | Digikey | $0.69 | [link](https://www.digikey.ca/en/products/detail/marutsuelec/21601X7GSE/21669028?s=N4IgTCBcDaIGYFMC2BDANggBACwSgJggE6YCMAHgOwgC6AvkA)|
-| **Male Pin Headers** (1x7) | 4 | TME | $0.783 | [link](https://www.tme.com/ca/en/details/825433-7/pin-headers/te-connectivity/)|
 | **PCB Printing** | 1 (set of 5) | JLCPCB | $18.10 |See below|
 | **Shipping for PCB** ||JLCPCB| $13.65| See below|
 
 May have extra costs for PCB assembly, cannot be determined right away, but approximately $10-$15 USD
 <img width="7190" height="1171" alt="image" src="https://github.com/user-attachments/assets/fb51ce1a-3aec-4013-8306-18ac527a12f5"/>
 
-Total Approximation =  $180.962
+Total Approximation =  $177.83
 
 
