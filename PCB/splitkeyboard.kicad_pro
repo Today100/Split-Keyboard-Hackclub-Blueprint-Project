@@ -487,8 +487,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
-      "pos_files": "",
+      "plot": "C:/Users/rsgra/Downloads/temp/keyboard/",
+      "pos_files": "C:/Users/rsgra/Downloads/temp/",
       "specctra_dsn": "",
       "step": "",
       "svg": "",
@@ -498,7 +498,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "C:\\Users\\rsgra\\Downloads\\temp\\splitkeyboard.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
