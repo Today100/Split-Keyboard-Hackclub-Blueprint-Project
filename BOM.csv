@@ -1,22 +1,22 @@
-Item,Amount,Amount,Store,Unit Price (USD),Shipping (USD),Total (USD),Unit Price (CAD),Shipping (CAD),Total (CAD),Link
-Microcontroller (Seeed XIAO nRF52840 BLE),2,2,RobotShop,$10.37,$5.76,$34.33,$14.21,$7.89,$47.03,link
-"Female Pin Headers (1x7, 2.54mm pitch)",2,2,RobotShop,$2.04,,,$2.79,,,link
-Male Pin Headers,2,2,RobotShop,$1.88,,,$2.57,,,link
-Kailh Choc V1 Low Profile Switches Silver,6 (packs of 10),6,Lowprokb,$7.30,$8.03,$89.05,$10.00,$11.00,$122.00,link
-Kailh Choc Hot Swap Sockets CPG135001S30,6 (packs of 10),6,Lowprokb,$1.82,,,$2.50,,,link
-MBK Low Profile PBT Blank Keycaps Ocean,6 (packs of 10),6,Lowprokb,$4.38,,,$6.00,,,link
-10440 Battery 3.7V,1 (pack of 2),1,Amazon,$9.12,$0.73,$27.35,$12.49,$1.00,$37.47,link
-Single AAA Battery Holder,1 (pack of 12),1,Amazon,$8.02,,,$10.99,,,link
-Power Switch,1 (packs of 150),1,Amazon,$9.48,,,$12.99,,,link
-2-in-1 MX & Choc Switch Opener,1,1,Print League,$0.00,$7.30,$7.30,$0.00,$10.00,$10.00,
-Keyboard Case,1,1,Print League,$0.00,,,$0.00,,,
-PCB Printing,1 (set of 5),1,JLCPCB,$18.09,$28.99,$57.02,$24.78,$39.71,$78.12,
-Cost of Mounting,,,JLCPCB,$17.25,,,$23.63,,,
-Discount,1,1,JLCPCB,-$7.30,,,-$10.00,,,
-"Diodes (1N4148, SOD-123 Surface Mount)",52,52,Solder on to the board directly (will reduce the cost of buying directly since the amount is little),0,$0.00,,,,,
-"Resistor R3 (806k Ω, SMD)",2,2,Solder on to the board directly (will reduce the cost of buying directly since the amount is little),0,,,,,,
-"Resistor R4 (2M Ω, SMD)",2,2,Solder on to the board directly (will reduce the cost of buying directly since the amount is little),0,,,,,,
-,,,,,,$215.05,,,$294.62,
-,,,,,,,,,,
-,,,"Consider Possible Exchange Rate Difference, Request for:
-Extras will be returned to HackClub",,,$220.00,,,,
+Item,Amount,Amount,Store,Unit Price (USD),Shipping (USD),Tax (USD),Total (USD),Unit Price (CAD),Shipping (CAD),Tax (CAD),Total (CAD),Link
+Microcontroller (Seeed XIAO nRF52840 BLE),2,2,RobotShop,$10.37,$5.76,$4.47,$38.80,$14.21,$7.89,$6.12,$53.15,link
+"Female Pin Headers (1x7, 2.54mm pitch)",2,2,RobotShop,$2.04,,,,$2.79,,,,link
+Male Pin Headers,2,2,RobotShop,$1.88,,,,$2.57,,,,link
+Kailh Choc V1 Low Profile Switches Silver,6 (packs of 10),6,Lowprokb,$5.11,$8.03,$9.87,$85.78,$7.00,$11.00,$13.52,$117.52,link
+Kailh Choc Hot Swap Sockets CPG135001S30,6 (packs of 10),6,Lowprokb,$1.82,,,,$2.50,,,,link
+MBK Low Profile PBT Blank Keycaps Ocean,6 (packs of 10),6,Lowprokb,$4.38,,,,$6.00,,,,link
+10440 Battery 3.7V,1 (pack of 2),1,Amazon,$9.12,$0.00,$3.46,$30.08,$12.49,$0.00,$4.74,$41.21,link
+Single AAA Battery Holder,1 (pack of 12),1,Amazon,$8.02,,,,$10.99,,,,link
+Power Switch,1 (packs of 150),1,Amazon,$9.48,,,,$12.99,,,,link
+2-in-1 MX & Choc Switch Opener,1,1,Print League,$0.00,$7.30,$0.00,$7.30,$0.00,$10.00,$0.00,$10.00,
+Keyboard Case,1,1,Print League,$0.00,,,,$0.00,,,,
+PCB Printing,1 (set of 5),1,JLCPCB,$18.09,$39.68,$0.00,$67.72,$24.78,$54.36,,$92.77,
+Cost of Mounting,,,JLCPCB,$17.25,,,,$23.63,,,,
+Discount,1,1,JLCPCB,-$7.30,,,,-$10.00,,,,
+"Diodes (1N4148, SOD-123 Surface Mount)",52,52,Solder on to the board directly (will reduce the cost of buying directly since the amount is little),0,$0.00,,,,,,,
+"Resistor R3 (806k Ω, SMD)",2,2,Solder on to the board directly (will reduce the cost of buying directly since the amount is little),0,,,,,,,,
+"Resistor R4 (2M Ω, SMD)",2,2,Solder on to the board directly (will reduce the cost of buying directly since the amount is little),0,,,,,,,,
+,,,,,,,$229.67,,,,$314.65,
+,,,,,,,,,,,,
+,,,"Consider Possible Exchange Rate Difference, Produce Price Change, Request for:
+Extras will be returned to HackClub",,,,$235.00,USD,,,,
