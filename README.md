@@ -1,5 +1,5 @@
 # Split-Keyboard-Hackclub-Blueprint-Project
-A split keyboard using the Seeed Studio XIAO nRF52840. Made for my dad because he likes getting keyboards. Therefore, I want to make him one! It has a Bluetooth feature and is rechargeable.
+A split keyboard using the Seeed Studio XIAO nRF52840. Inspired by my dad, who likes looking at different kinds of keyboards. I'd like to make one to practice my skills in hardware design and give it to him as a gift. It has a Bluetooth feature and is rechargeable.
 
 ### Overview
 
